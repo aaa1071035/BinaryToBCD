@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704855426 source:c:\users\cody\desktop\hextodec\binarytobcd\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1704875821 source:c:\users\cody\desktop\codes\binarytobcd\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
